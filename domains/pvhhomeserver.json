@@ -1,0 +1,11 @@
+{
+    "description": "Personal server and test web development",
+    "repo": "https://github.com/hikineet98/hikineet98.github.io",
+    "owner": {
+        "username": "hikineet98",
+        "email": "hikineet1998@gmail.com"
+    },
+    "record": {
+        "CNAME": "hikineet98.github.io"
+    }
+}
